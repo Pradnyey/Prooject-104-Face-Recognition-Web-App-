@@ -1,0 +1,24 @@
+html
+{
+    background-color: black;
+    color: white;
+}
+
+.heading 
+{
+    font-size: 25px;
+    width: 80%;
+}
+
+.names, #result_person_name, #result_person_accuracy
+{
+    color: orange;
+    font-size: 20px;
+}
+
+#camera, #result
+{
+    border: 2px solid white;
+    width: 350px;
+    height: 300px;
+}
